@@ -1,13 +1,20 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/livewire-starter-kit",
+    "name": "itashia/livewire-starter-kit-rtl",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "The official Laravel starter kit rtl for Livewire.",
     "keywords": [
         "laravel",
-        "framework"
+        "framework",
+        "laris",
     ],
     "license": "MIT",
+    "authors": [
+    {
+      "name": "itarrshia",
+      "email": "itarrshia@gmail.com"
+    }
+  ],
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
